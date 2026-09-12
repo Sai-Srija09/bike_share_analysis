@@ -1,6 +1,6 @@
 # Toman Bike Share – Sales & Revenue Analysis
 
-End-to-end analysis of bike-sharing data to explore revenue, rider demographics, seasonal trends, and pricing opportunities — using **SQL (PostgreSQL) and Power BI**.
+End-to-end analysis of bike-sharing data to explore revenue, rider demographics, seasonal trends, and pricing opportunities using **SQL (PostgreSQL) and Power BI**.
 
 ## Project Overview
 
